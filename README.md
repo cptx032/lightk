@@ -1,2 +1,2 @@
 # lightk
-tkinter effects
+Tkinter gui effects
